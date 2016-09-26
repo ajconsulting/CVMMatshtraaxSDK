@@ -1,0 +1,6 @@
+framework module PrologTouch {
+  umbrella header "PrologTouch.h"
+
+  export *
+  module * { export * }
+}

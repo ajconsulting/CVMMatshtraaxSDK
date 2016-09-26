@@ -1,0 +1,6 @@
+framework module SyncablesKitTouch {
+  umbrella header "SyncablesKitTouch.h"
+
+  export *
+  module * { export * }
+}

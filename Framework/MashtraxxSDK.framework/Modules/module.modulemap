@@ -1,0 +1,6 @@
+framework module MashtraxxSDK {
+  umbrella header "MashtraxxSDK.h"
+
+  export *
+  module * { export * }
+}
